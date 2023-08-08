@@ -1,1 +1,1 @@
-# MERn_authentication
+#MERN  Authentication with login, signup, change password and reset password
